@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sun.Yiding</title>
+    <description>大家好，我是孙一丁，我是个性格腼腆的谜一样的女生。</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 15 Aug 2016 14:06:42 +0800</pubDate>
+    <lastBuildDate>Mon, 15 Aug 2016 14:06:42 +0800</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Hi 一丁</title>
+        <description>&lt;h1 id=&quot;section&quot;&gt;一丁，生日快乐&lt;/h1&gt;
+&lt;p&gt;闲的没事儿，顺手建立了个网站给你。&lt;/p&gt;
+
+&lt;p&gt;然后我发现，你可能根本不会用。说实话&lt;a href=&quot;http://www.neoli.me&quot;&gt;我&lt;/a&gt;弄这个网站也挺费劲的。&lt;/p&gt;
+
+&lt;p&gt;涉及了怎么使用git啦，jekyll啦，一大堆事儿。不过我相信，你会为了把你这张照片抠下来而努力的。&lt;/p&gt;
+
+&lt;p&gt;或者你可以先去看看我的网站，在你的Home  的Friend一栏的Neo，就是我，别忘了收藏和时不时的关注一下。&lt;/p&gt;
+
+&lt;p&gt;你的&lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;账号是：Sun-Yiding  密码是,唔，还是发微信告诉你吧。&lt;/p&gt;
+
+&lt;p&gt;具体教程你可以参考&lt;a href=&quot;http://blog.fens.me/jekyll-bootstarp-github/&quot;&gt;这里&lt;/a&gt;，当然，这个教程并不是尽善尽美，毕竟里面是用windows的教程，而你是MAC系统，那么enjoy your life! 用苹果搭建简单极了，我都嫉妒你了。用好百度吧。&lt;/p&gt;
+
+&lt;p&gt;还有，你还需要参考官方文档：&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; + &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;至于git，额，这可能会是个难点。&lt;/p&gt;
+
+&lt;p&gt;但是我会三天两头在你的网站上更新东西的，不用担心。&lt;/p&gt;
+
+&lt;p&gt;就这样，happy birthday~&lt;/p&gt;
+
+&lt;p&gt;题外话：我觉得香肠公主饭好吃极了。&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 15 Aug 2016 00:00:00 +0800</pubDate>
+        <link>/2016/08/15/happybirthday/</link>
+        <guid isPermaLink="true">/2016/08/15/happybirthday/</guid>
+        
+        <category>教程</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

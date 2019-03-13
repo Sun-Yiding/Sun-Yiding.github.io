@@ -1,4 +1,4 @@
-# 大家好，我是李明耀，我对构建网站一窍不通，所以直接借用了黄玄前辈的模板。几乎照抄。
+# 黄玄前辈的模板
 所以大家感兴趣的话可以点击下面的连接进入。
 
 #####  [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!

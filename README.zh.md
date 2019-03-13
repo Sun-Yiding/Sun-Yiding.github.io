@@ -9,5 +9,5 @@
 
 ## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
 
-##再次感谢黄玄前辈的模板，还有他非常贴心的修改文档，真的非常贴心!
+##再次感谢黄玄前辈的模板，还有他非常贴心的修改文档!
 

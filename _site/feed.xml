@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sun.Yiding</title>
-    <description>大家好，我是孙一丁，我是个性格腼腆的谜一样的女生。</description>
+    <description>大家好，我是孙一丁。</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     <pubDate>Mon, 15 Aug 2016 15:27:29 +0800</pubDate>
@@ -19,8 +19,6 @@
 &lt;p&gt;涉及了怎么使用git啦，jekyll啦，一大堆事儿。不过我相信，你会为了把你这张照片抠下来而努力的。&lt;/p&gt;
 
 &lt;p&gt;或者你可以先去看看我的网站，在你的Home  的Friend一栏的Neo，就是我，别忘了收藏和时不时的关注一下。&lt;/p&gt;
-
-&lt;p&gt;你的&lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt;账号是：Sun-Yiding  密码是,唔，还是发微信告诉你吧。&lt;/p&gt;
 
 &lt;p&gt;具体教程你可以参考&lt;a href=&quot;http://blog.fens.me/jekyll-bootstarp-github/&quot;&gt;这里&lt;/a&gt;，当然，这个教程并不是尽善尽美，毕竟里面是用windows的教程，而你是MAC系统，那么enjoy your life! 用苹果搭建简单极了，我都嫉妒你了。用好百度吧。&lt;/p&gt;
 

@@ -3,7 +3,7 @@ title: Sun.Yiding
 SEOTitle: 孙一丁的博客 | Sun.Yiding
 header-img: img/home-bg.jpg
 email: 1635866859@qq.com
-description: "大家好，我是孙一丁，我是个性格腼腆的谜一样的女生。"
+description: "大家好，我是孙一丁。"
 keyword: "孙一丁, Sun Yiding, Yiding"
 url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -69,7 +69,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "最近胖成了球，无论我多么瘦。"
+sidebar-about-description: ""
 sidebar-avatar: /img/avater-yiding.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
